@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently working as a technical writer at WillDom
+- 🌱 I’m interested in JAMStack
+- 🤔 I’m looking for help to get time updating my bio & a now page
+- 💬 Ask me about sociology and sci-fi
+- ⚡ Fun fact: dabbling with guitar at Rocksmith
