@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![venhamon - ramoneando.com](site.png)](http://ramoneando.com/)
 
 - 🔭 I’m currently working as a technical writer at WillDom
 - 🌱 I’m interested in JAMStack
