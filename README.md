@@ -2,7 +2,7 @@
 
 [![venhamon - ramoneando.com](https://github.com/naihloan/ramoneando/blob/gh-pages/pics/site.png)](http://ramoneando.com/)
 
-- 🔭 I’m currently working as a technical writer at WillDom
+- 🔭 I’m currently working as a project manager at Preferati
 - 🌱 I’m interested in JAMStack
 - 🤔 I’m looking for help to get time updating my bio & a now page
 - 💬 Ask me about sociology and sci-fi
