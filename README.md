@@ -1,19 +1,19 @@
 ### Hey There! 👋
 
-[![venhamon - ramoneando.com](https://github.com/naihloan/ramoneando/blob/gh-pages/pics/site.png)](http://ramoneando.com/)
-
 - 🔭 I'm a Product Manager at NEWM
 - 🌱 I’m interested in JAMStack
 - 💬 Ask me about sociology and sci-fi
 - ⚡ Fun fact: dabbling with bass guitar at Rocksmith
 
+[![venhamon - ramoneando.com](https://github.com/naihloan/ramoneando/blob/gh-pages/pics/site.png)](http://ramoneando.com/)
+
 ### 📫 Contact
 <a href="https://t.me/venhamon">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Personal Telegram contact" />
 </a>
-<a href="https://twitter.com/elrorry">
+<a href="https://twitter.com/venhamon">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Personal Twitter"/>
-</a><a href="https://www.linkedin.com/in/rodrigo-ali/">
+</a><a href="https://www.linkedin.com/in/bj-pm/?locale=en_US">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Personal LinkedIn"/>
 </a>
 
@@ -27,6 +27,7 @@
 ### 💲 Cryptocurrencies
 <img src="https://img.shields.io/badge/Cardano-375BD2?style=for-the-badge&logo=cardano&logoColor=white" alt="Cardano crypto" />
 
+<!--
 ### 🔁 Dynamics
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=naihloan&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
@@ -35,7 +36,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=${naihloan}.${naihloan})
 
-<!--
+
 **naihloan/naihloan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
