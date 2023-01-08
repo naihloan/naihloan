@@ -2,7 +2,7 @@
 
 [![venhamon - ramoneando.com](https://github.com/naihloan/ramoneando/blob/gh-pages/pics/site.png)](http://ramoneando.com/)
 
-- 🔭 I working as a Product Manager at NEWM
+- 🔭 I'm a Product Manager at NEWM
 - 🌱 I’m interested in JAMStack
 - 💬 Ask me about sociology and sci-fi
 - ⚡ Fun fact: dabbling with bass guitar at Rocksmith
